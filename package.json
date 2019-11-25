@@ -1,0 +1,27 @@
+{
+	"name": "srcery",
+	"displayName": "srcery-prell",
+	"description": "prell's Srcery theme based on the srcery-colors themes",
+	"version": "0.2.0",
+	"publisher": "prell",
+	"license": "MIT",
+	"engines": {
+		"vscode": "^1.19.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "Srcery-prell",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Srcery-prell-color-theme.json"
+			}
+		]
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/Prelly95/Srcery-prell.git"
+	},
+}
