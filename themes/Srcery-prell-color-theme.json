@@ -592,6 +592,15 @@
 			}
 		},
 
+		{
+			"scope": [
+				"meta.function-call.c",
+				"meta.function.call.rust entity.name.function.rust",
+			],
+			"settings": {
+				"foreground": "#569CD6"
+			}
+		},
 
 		{
 			"scope": [
@@ -859,10 +868,8 @@
 				"keyword.other.platform.os.swift",
 				"keyword.other.unit",
 				"meta.declaration.exports.haskell entity.name.function.haskell",
-				"meta.function-call.c",
 				"meta.function-call.erlang variable.other.erlang",
 				"meta.function-call.swift",
-				"meta.function.call.rust entity.name.function.rust",
 				"meta.function.js support",
 				"meta.method-call.with-arguments.js support.type",
 				"meta.type.object.graphql support.type.graphql",
@@ -912,7 +919,7 @@
 				"variable"
 			],
 			"settings": {
-				"foreground": "#CAC0A9"
+				"foreground": "#a9acca"
 			}
 		},
 		{
