@@ -4,8 +4,12 @@
     "description": "copy of srcery with some changes",
     "version": "0.0.1",
     "engines": {
-        "vscode": "^1.49.0"
+        "vscode": "^1.15.0"
     },
+    "repository": {
+		"type": "git",
+		"url": "https://github.com/Prelly95/Srcery-prell"
+	},
     "categories": [
         "Themes"
     ],
