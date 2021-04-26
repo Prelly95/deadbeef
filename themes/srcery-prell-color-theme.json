@@ -16,6 +16,7 @@
 		"editor.foreground": "#fce8c3",
 		"editor.lineHighlightBackground": "#242837",
 		"editor.selectionBackground": "#6a2dccbe",
+		"editor.foldBackground": "#3e425177",
 		"editor.selectionHighlightBackground": "#264f788c",
 		"editorCursor.foreground": "#98bc37",
 		"editorLink.activeForeground": "#2c78bf",
@@ -61,7 +62,6 @@
 		"sideBar.foreground": "#cac0a9",
 		"sideBarSectionHeader.background": "#3e4251",
 		"sideBarSectionHeader.foreground": "#e3d8be",
-
 		"statusBar.background": "#242837",
 		"statusBar.debuggingBackground": "#535664",
 		"statusBar.foreground": "#e3d8be",
@@ -129,10 +129,12 @@
 		"editor.snippetFinalTabstopHighlightBorder": "#696c77",
 		"editor.snippetTabstopHighlightBackground": "#3e4251",
 		"editor.stackFrameHighlightBackground": "#00ff0025",
-		"editor.wordHighlightBackground": "#33384d",
-		"editor.wordHighlightBorder": "#474e6c",
-		"editor.wordHighlightStrongBackground": "#33384d",
-		"editor.wordHighlightStrongBorder": "#474e6c",
+
+		"editor.wordHighlightBackground": "#00000000",
+		"editor.wordHighlightBorder": "#00000000",
+		"editor.wordHighlightStrongBackground": "#00000000",
+		"editor.wordHighlightStrongBorder": "#00000000",
+
 		"editorBracketMatch.background": "#83b4d670",
 		"editorBracketMatch.border": "#83b4d600",
 		"editorCodeLens.foreground": "#fdf1d4",
